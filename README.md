@@ -1,5 +1,7 @@
 # Competitive Intelligence Tracker
 
+🔗 **Live Demo**: https://competitive-tracker.vercel.app/
+
 A web application to track and analyze changes on competitor websites with AI-powered summaries.
 
 ## Features
