@@ -1,45 +1,53 @@
 # About Me
 
 ## Name
-[Your Name]
+Rounak Raj
 
 ## Contact
 - Email: [your.email@example.com]
-- LinkedIn: [linkedin.com/in/yourprofile]
-- GitHub: [github.com/yourusername]
+- LinkedIn: [linkedin.com/in/rounakraj]
+- GitHub: [github.com/Raj7442]
 
 ## Resume
 
 ### Education
 [Your Degree] in [Your Major]
-[University Name], [Graduation Year]
+[University Name], [Expected Graduation Year]
+
+### Skills
+- **Languages**: JavaScript, Node.js, SQL, HTML, CSS
+- **Frameworks**: React, Express.js
+- **Databases**: PostgreSQL, Neon
+- **Tools**: Docker, Git, GitHub, Render, Vercel
+- **AI/ML**: OpenAI API, GPT-3.5-turbo
+- **Other**: Web Scraping (Cheerio, Axios), REST APIs, CORS
+
+### Projects
+
+**Competitive Intelligence Tracker** (2026)
+- Built full-stack web app with AI-powered competitive analysis
+- Implemented web scraping, diff detection, and OpenAI integration for automated summaries
+- Tech stack: React, Node.js, Express, PostgreSQL, Docker
+- Deployed on Render (backend) and Vercel (frontend)
+- Features: Real-time competitor tracking, change detection, AI summaries, health monitoring
+
+**Valentine Interactive Page** (2026)
+- Created romantic interactive web page with React and Framer Motion
+- Implemented animations, responsive design, and interactive elements
+- Deployed on Vercel
+
+**Live Bidding Platform** (2026)
+- Real-time auction platform with Socket.io
+- Race condition handling for concurrent bids
+- Docker deployment with Node.js backend and React frontend
 
 ### Experience
 
-**[Current/Recent Position]** - [Company Name]
-[Start Date] - [End Date]
-- [Key responsibility or achievement]
-- [Key responsibility or achievement]
-- [Key responsibility or achievement]
-
-**[Previous Position]** - [Company Name]
-[Start Date] - [End Date]
-- [Key responsibility or achievement]
-- [Key responsibility or achievement]
-
-### Skills
-- **Languages**: JavaScript, Python, SQL, etc.
-- **Frameworks**: React, Node.js, Express, etc.
-- **Databases**: PostgreSQL, MongoDB, etc.
-- **Tools**: Docker, Git, AWS, etc.
-- **AI/ML**: OpenAI API, LangChain, etc.
-
-### Projects
-- **Competitive Intelligence Tracker**: Built a full-stack web app with AI-powered change detection and summarization
-- [Other relevant projects]
+[Add your work experience here if any, or remove this section]
 
 ### Interests
-- Web scraping and data analysis
+- Full-stack web development
 - AI/ML applications in business intelligence
-- Full-stack development
-- DevOps and cloud infrastructure
+- Web scraping and data analysis
+- Real-time applications
+- Cloud deployment and DevOps
